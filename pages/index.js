@@ -7,7 +7,7 @@ export default function Home() {
     <div className="container">
       <Head>
         <title>Google Classroom</title>
-        
+        <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
