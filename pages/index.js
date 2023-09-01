@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Welcome to my app" />
         <p className="description">
-          Get started by clicking <code>pages/index.js</code>
+          Get started by clicking <link "age-of-war.html" />
         </p>
       </main>
 
